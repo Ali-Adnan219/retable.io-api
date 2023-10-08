@@ -2,7 +2,7 @@
 https://app.retable.io
 
 https://docs.retable.io/retable-user-guide/retable-api/api
-
+```
 import RetableAPI
 api_key = "RTBLv1-EqujAOSANmjCGzPCkIFPEnRFU"
 retable_id="Y7ICPfEwYkx4pyRM"
@@ -52,5 +52,5 @@ print("Retable Info:", retable_info)
 
 #retable_data = retable.get_retable_data(retable_id)
 print("Retable Data:", retable_data)
-
+```
 
